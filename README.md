@@ -8,3 +8,4 @@
 # Notas
 
 - [Null Safety](https://medium.com/@ChindaVibhor/null-safety-in-kotlin-ecaa67a6b397)
+- [TODO - function](https://www.baeldung.com/kotlin/todo)

@@ -15,6 +15,10 @@
 - [Activity lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 - [Lifecycle in detail](https://medium.com/@ranjeet123/android-activity-lifecycle-in-detail-eaf2931a1b37)
 
+### Firebase
+
+- [Codelab Firebase Chat](https://firebase.google.com/codelabs/firebase-android#0)
+
 ## Notas
 
 - [Null Safety](https://medium.com/@ChindaVibhor/null-safety-in-kotlin-ecaa67a6b397)
